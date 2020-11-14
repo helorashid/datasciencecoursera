@@ -1,4 +1,4 @@
-echo "# datasciencecoursera" >> README.md
+git This is a markdown file
 git init
 git add README.md
 git commit -m "first commit"
